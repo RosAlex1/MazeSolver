@@ -3,9 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 /* Maze Solver
- * Roshan Alexander
- * Nasir Ashraf
- * Miguel Aliaga */
+ * Roshan Alexander*/
 
 /* This class simply defines each object in the 2 dimensional array. */
 
